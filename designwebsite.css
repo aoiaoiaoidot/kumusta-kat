@@ -1,0 +1,44 @@
+.navigation {
+    margin: auto;
+     width: 50%;
+     padding: 150px auto;
+     text-align: center;
+
+}
+
+body {
+    background-image: url("../img/catto.jpg");
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+}
+
+#header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+
+}
+.navigation {
+    padding-top: 2px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#chat {
+    float: right;
+    margin-right:70px;
+    margin-bottom: 5px:
+
+}
+#appointment { 
+    float: left;
+    margin-left:20px;
+    margin-bottom: 5px:
+
+}
